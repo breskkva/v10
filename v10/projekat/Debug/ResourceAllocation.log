@@ -1,0 +1,14 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Start.cpp
+  ResourceAllocation.cpp
+  Generating Code...
+ResourceAllocation.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+libLivenessAnalysis-vc140-mt-gd.lib(libLivenessAnalysis.obj) : warning LNK4099: PDB '' was not found with 'libLivenessAnalysis-vc140-mt-gd.lib(libLivenessAnalysis.obj)' or at ''; linking object as if no debug info
+libLivenessAnalysis-vc140-mt-gd.lib(Variable.obj) : warning LNK4099: PDB 'libLivnessAnalysis.pdb' was not found with 'libLivenessAnalysis-vc140-mt-gd.lib(Variable.obj)' or at 'E:\ DRUGI SEMESTAR\SPPURV1\RACUNARSKE VEZBE\v10\projekat\Debug\libLivnessAnalysis.pdb'; linking object as if no debug info
+libLivenessAnalysis-vc140-mt-gd.lib(libVariable.obj) : warning LNK4099: PDB 'libLivnessAnalysis.pdb' was not found with 'libLivenessAnalysis-vc140-mt-gd.lib(libVariable.obj)' or at 'E:\ DRUGI SEMESTAR\SPPURV1\RACUNARSKE VEZBE\v10\projekat\Debug\libLivnessAnalysis.pdb'; linking object as if no debug info
+libResourceAllocation-vc140-mt-gd.lib(Instruction.obj) : warning LNK4099: PDB 'libResourceAllocation.pdb' was not found with 'libResourceAllocation-vc140-mt-gd.lib(Instruction.obj)' or at 'E:\ DRUGI SEMESTAR\SPPURV1\RACUNARSKE VEZBE\v10\projekat\Debug\libResourceAllocation.pdb'; linking object as if no debug info
+libResourceAllocation-vc140-mt-gd.lib(InterferenceGraph.obj) : warning LNK4099: PDB 'libResourceAllocation.pdb' was not found with 'libResourceAllocation-vc140-mt-gd.lib(InterferenceGraph.obj)' or at 'E:\ DRUGI SEMESTAR\SPPURV1\RACUNARSKE VEZBE\v10\projekat\Debug\libResourceAllocation.pdb'; linking object as if no debug info
+libResourceAllocation-vc140-mt-gd.lib(libResourceAllocation.obj) : warning LNK4099: PDB 'libResourceAllocation.pdb' was not found with 'libResourceAllocation-vc140-mt-gd.lib(libResourceAllocation.obj)' or at 'E:\ DRUGI SEMESTAR\SPPURV1\RACUNARSKE VEZBE\v10\projekat\Debug\libResourceAllocation.pdb'; linking object as if no debug info
+libResourceAllocation-vc140-mt-gd.lib(Simplification.obj) : warning LNK4099: PDB 'libResourceAllocation.pdb' was not found with 'libResourceAllocation-vc140-mt-gd.lib(Simplification.obj)' or at 'E:\ DRUGI SEMESTAR\SPPURV1\RACUNARSKE VEZBE\v10\projekat\Debug\libResourceAllocation.pdb'; linking object as if no debug info
+libResourceAllocation-vc140-mt-gd.lib(Test.obj) : warning LNK4099: PDB 'libResourceAllocation.pdb' was not found with 'libResourceAllocation-vc140-mt-gd.lib(Test.obj)' or at 'E:\ DRUGI SEMESTAR\SPPURV1\RACUNARSKE VEZBE\v10\projekat\Debug\libResourceAllocation.pdb'; linking object as if no debug info
+  ResourceAllocation.vcxproj -> E:\ DRUGI SEMESTAR\SPPURV1\RACUNARSKE VEZBE\v10\projekat\Debug\ResourceAllocation.exe
